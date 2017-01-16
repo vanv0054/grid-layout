@@ -1,22 +1,4 @@
 
-@media only screen and (min-width: 25em) {
-
-  .unit-s-1-2 {
-    width: 50%;
-    float: left;
-  }
-
-}
-
-@media only screen and (min-width: 38em) {
-
-  .unit-m-1-3 {
-    width: 33.3333%;
-    float: left;
-  }
-
-}
-
 /*
   Gridifier || Code released under the UNLICENSE
   https://gridifier.web-dev.tools/#xs,4,0,0,0;s,4,25,0,0;m,4,38,1,1;l,4,60,1,1
